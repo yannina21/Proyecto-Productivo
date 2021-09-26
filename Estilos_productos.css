@@ -1,0 +1,19 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+div {
+    background-color: blue;
+    background-clip: center;
+    width: 50%;
+    height: 100vh;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: aquamarine;
+    background-clip: center;
+}
